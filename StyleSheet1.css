@@ -1,0 +1,14 @@
+﻿body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("page-background.jpg");
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+    
+}
+#index-h1 {text-align: center;}
+table, th, td {border: 1px solid black;}
+table {width:90%;}
+td {column-width:190px;}
+#index-td-title-entry {column-width:500px;}
+#index-td-headings {font-weight:900}
+#index-td-title-heading {column-width:500px; font-weight:900;}
